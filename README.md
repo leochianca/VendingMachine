@@ -1,3 +1,3 @@
 # Vending Machine
 
-Protótipo de uma Vending Machine (command line) feito em C#.
+Prototype of a Vending Machine (command line) with C#.
